@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActMobile Networks</string>
+    <string name="your_region">YOUR REGION</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="select_a_region">Select a region:</string>
+    <string name="choose_region">Choose region</string>
+</resources>
